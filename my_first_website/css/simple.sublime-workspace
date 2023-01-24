@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-variant\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"bold",
+				"bold\tfont-weight"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"un",
+				"underline\ttext-decoration"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"t",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"marin",
+				"margin-top\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"na",
+				"nav_child"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"image",
+				"background-image\tproperty"
+			],
+			[
+				"c",
+				"clear\tproperty"
+			],
+			[
+				"gen",
+				"gender_f"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"box",
+				"box4"
+			],
+			[
+				"text-d",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"f",
+				"f_left"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ta",
+				"tableColour"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"hea",
+				"heading"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-style\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"border-bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"boe",
+				"border-bottom\tproperty"
+			],
+			[
+				"bla",
+				"blackbox"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pd",
+				"padding-top\tproperty"
+			],
+			[
+				"border-bot",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"sou",
+				"soundcloud-lib"
+			],
+			[
+				"mea",
+				"meal_pic_url"
+			],
+			[
+				"r",
+				"respond"
+			],
+			[
+				"json",
+				"json_to_dict"
+			],
+			[
+				"re",
+				"reply_json"
+			],
+			[
+				"j",
+				"jprint"
+			],
+			[
+				"p",
+				"params"
+			],
+			[
+				"ap",
+				"app_key"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"F",
+				"F0E68C"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border-right\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"border-st",
+				"border-style\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Fergal/Documents/Web Dev/balloons/balloons.css",
+		"/C/Users/Fergal/Documents/Web Dev/balloons/index.html",
+		"/C/Users/Fergal/Documents/html/basicDemo2.html",
+		"/C/Users/Fergal/Downloads/furry_fury_legend_of_the_twin_orbs.exe",
+		"/C/Users/Fergal/Documents/MyJavaFiles/Semester2/Lab5Ex1.java",
+		"/C/Users/Fergal/Documents/html/Term2/Box3 Example.html",
+		"/C/Users/Fergal/Documents/html/Term2/Chinaa.html",
+		"/C/Users/Fergal/Downloads/Exercise2.java",
+		"/C/Users/Fergal/Documents/html/Term2/China.html",
+		"/C/Users/Fergal/Documents/html/Website/stylesheet.css",
+		"/C/Users/Fergal/Documents/html/Website/Term2/Box Example.html",
+		"/C/Users/Fergal/Documents/html/Website/About.html",
+		"/C/Users/Fergal/Documents/html/Website/Boat.html",
+		"/C/Users/Fergal/Documents/html/Website/Bikes.html",
+		"/C/Users/Fergal/Documents/html/Website/index.html",
+		"/C/Users/Fergal/Documents/html/Image.html",
+		"/C/Users/Fergal/Downloads/Table-FErgal.html",
+		"/C/Users/Fergal/Documents/html/Website/stylesheet.css.txt",
+		"/C/Users/Fergal/Documents/html/Website/index.html.html",
+		"/C/Users/Fergal/Documents/html/FergalsWebsite.html",
+		"/C/Users/Fergal/Documents/html/Textbox.html",
+		"/C/Users/Fergal/Documents/html/Link class ex.html",
+		"/C/Users/Fergal/Documents/MyJavaFiles/Lab7Ex5.java",
+		"/C/Users/Fergal/Documents/MyJavaFiles/FergalCAssment2.java",
+		"/C/Users/Fergal/Documents/html/carAdvert-Fergal.html",
+		"/C/Users/Fergal/Documents/html/ConnollyFergal.html",
+		"/C/Users/Fergal/Documents/html/idk.html",
+		"/C/Users/Fergal/Documents/Python Scripts/started_fergal.html",
+		"/C/Users/Fergal/Documents/html/Fergal-Inline.html.html",
+		"/C/Users/Fergal/Desktop/Temp/ctrfoobar2000-1.2.0.2/setup.py",
+		"/C/Users/Fergal/Desktop/Temp/ctrfoobar2000-1.2.0.2/ctrfoobar2000/control.py",
+		"/C/Users/Fergal/Desktop/Temp/mp3-wav-master/src/test/java/com/sipgate/mp3wav/ConverterTest.java",
+		"/C/Users/Fergal/Desktop/Temp/Converter.java",
+		"/C/Users/Fergal/Documents/RAD - Unity/RollaBall/Assets/CamCon.cs",
+		"/C/Users/Fergal/Pictures/bug.n-9.0.2/doc/Cheat_sheet/cheat_sheet.md",
+		"/C/Users/Fergal/Pictures/bug.n-9.0.2/README.md",
+		"/C/Users/Fergal/Documents/Python Scripts/soundcloudProject.py.txt",
+		"/C/Users/Fergal/Documents/RAD - Unity/RollaBall/Assets/PlayerController.cs",
+		"/C/Users/Fergal/Documents/RAD - Unity/RollaBall/Assets/Player Controler.cs",
+		"/C/Users/Fergal/Documents/RAD - Unity/RollaBall/Assets/PlayerControler.cs",
+		"/C/Users/Fergal/Documents/Python Scripts/get-pip.py",
+		"/C/Users/Fergal/Documents/html/soccer.html",
+		"/C/Users/Fergal/Documents/html/class ex nov2nd.html",
+		"/C/Users/Fergal/Documents/MyJavaFiles/ints.java",
+		"/C/Users/Fergal/Downloads/Embedded-simple.html",
+		"/C/Users/Fergal/Documents/test.html",
+		"/C/Users/Fergal/AppData/Roaming/Sublime Text 3/Packages/User/RTJava.sublime-build",
+		"/C/Users/Fergal/AppData/Roaming/Sublime Text 3/Packages/User/RunJava.sublime-build",
+		"/C/Users/Fergal/Documents/run java.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "simple.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
